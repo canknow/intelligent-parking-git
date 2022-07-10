@@ -51,13 +51,13 @@
 采用阿里巴巴微服务框架进行实现微服务提供能力，追求高性能，高可用，超细粒度独立微服务，相同服务可以动态灵活增加与减少，支持不停机发布新版本服务。
 每个服务之间均为独立存在，充分解耦，除了用于停车业务系统，可作为中台用于各类平台中间件；例如用户系统、授权管理、系统管理、短信发送，支付，订单，停车场系统接口，停车场后台管理，停车场提供者服务等均为独立的服务。
 
-![输入图片说明](snapshot/code/1.png)
+[![jsjR7n.png](https://s1.ax1x.com/2022/07/10/jsjR7n.png)](https://imgtu.com/i/jsjR7n)
 
-![输入图片说明](snapshot/code/2.png)
+[![jsjL7R.png](https://s1.ax1x.com/2022/07/10/jsjL7R.png)](https://imgtu.com/i/jsjL7R)
 
-![输入图片说明](snapshot/code/3.png)
+[![jsjvh6.png](https://s1.ax1x.com/2022/07/10/jsjvh6.png)](https://imgtu.com/i/jsjvh6)
 
-![输入图片说明](snapshot/code/4.png)
+[![jsjz9K.png](https://s1.ax1x.com/2022/07/10/jsjz9K.png)](https://imgtu.com/i/jsjz9K)
 
 #### 开发语言
 
