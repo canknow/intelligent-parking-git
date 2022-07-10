@@ -8,19 +8,19 @@
 兼容市面上主流的相机，底层已做抽象，根据需要可以快速接入其它品牌相机。
 支持月卡、内部车、免费车功能，通过灵活的配置支持广泛的收费策略配置。支持商家管理和发券。更多正在全力开发中，敬请期待...
 
-![输入图片说明](snapshot/web/1.png)
+![](https://s3.bmp.ovh/imgs/2022/07/10/df805821b2be6574.png)
 
-![输入图片说明](snapshot/web/2.png)
+![](https://s3.bmp.ovh/imgs/2022/07/10/e0459a3018c5379e.png)
 
-![输入图片说明](snapshot/web/3.png)
+![](https://s3.bmp.ovh/imgs/2022/07/10/c02a3fd096f7640a.png)
 
-![输入图片说明](snapshot/web/4.png)
+![](https://s3.bmp.ovh/imgs/2022/07/10/5b7032724b9a6497.png)
 
-![输入图片说明](snapshot/web/5.png)
+![](https://s3.bmp.ovh/imgs/2022/07/10/d478ebf06ef681c9.png)
 
-![输入图片说明](snapshot/web/6.png)
+![](https://s3.bmp.ovh/imgs/2022/07/10/0ad806ca3bb480cf.png)
 
-![输入图片说明](snapshot/web/7.png)
+![](https://s3.bmp.ovh/imgs/2022/07/10/302c722bb4ff3fc1.png)
 
 
 系统机构层级为合作商-公司-停车场；经过调研，公司下面可能还有物业单位，目前以纳入开发进度。
